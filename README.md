@@ -1,6 +1,6 @@
 # 2D-HCl
 
+![2D-HCl_gif](https://user-images.githubusercontent.com/64332150/223271188-a78f1cb4-6d0b-438c-9025-b13f8bfecc26.gif)
 
 
-https://user-images.githubusercontent.com/64332150/223269186-cd0be223-05a1-473e-85c5-6968571c7d38.mp4
 
